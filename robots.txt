@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /libs/
+Disallow: /tmp/
+Disallow: /content/css/
+Disallow: /content/js/
+Disallow: /content/langs/
+Disallow: /content/lightbox/
+Allow: /media/
+Allow: /
+
