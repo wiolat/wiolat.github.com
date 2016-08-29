@@ -7,6 +7,7 @@
 <meta name="keywords" content="EEG Biofeedback Warszawa, EEG Biofeedback Grodzisk Mazowiecki, Logopeda Grodzisk Mazowiecki, Pracownia, Logopedia, Gabinet, Terapia, Latosińska, ADHD, Koncentracja" />
 <meta name="description" content="Posiadany przez&nbsp;nas sprzęt firmy Thought Technology posiada CERTYFIKAT ZGODNOŚCI CE, a&nbsp;także certyfikaty jakości ISO 9001, ISO 13485. Spełnia najwyższe normy ..." />
 <meta name="robots" content="index, follow" />
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700&subset=latin-ext" rel="stylesheet">
 <link href="http://www.biofb.pl/content/css/basic.css" rel="stylesheet" type="text/css" />
 <link href="http://www.biofb.pl/content/js/fancybox/jquery.fancybox-1.3.1.css" media="screen" rel="stylesheet" type="text/css" />
 <!--[if IE]><link href="/content/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
@@ -37,10 +38,7 @@
 				
 		</ul>
 			</li>
- 
-	<li class="   menu3"><a href="../logopedia" title="Logopedia"><img src="../content/gfx/menu3.jpg" alt="Logopedia" /></a>
-			</li>
- 
+
 	<li class="   menu4"><a href="../cennik" title="Cennik"><img src="../content/gfx/menu4.jpg" alt="Cennik" /></a>
 			</li>
  

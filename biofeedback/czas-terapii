@@ -13,6 +13,7 @@ rodzaj i&nbsp;głębokość problemu,
 motywacja,
 systematyczność ..." />
 <meta name="robots" content="index, follow" />
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700&subset=latin-ext" rel="stylesheet">
 <link href="http://www.biofb.pl/content/css/basic.css" rel="stylesheet" type="text/css" />
 <link href="http://www.biofb.pl/content/js/fancybox/jquery.fancybox-1.3.1.css" media="screen" rel="stylesheet" type="text/css" />
 <!--[if IE]><link href="/content/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
@@ -42,9 +43,6 @@ systematyczność ..." />
 						<li class="last "><a href="sprzet" title="Sprzęt">Sprzęt</a></li>
 				
 		</ul>
-			</li>
- 
-	<li class="   menu3"><a href="../logopedia" title="Logopedia"><img src="../content/gfx/menu3.jpg" alt="Logopedia" /></a>
 			</li>
  
 	<li class="   menu4"><a href="../cennik" title="Cennik"><img src="../content/gfx/menu4.jpg" alt="Cennik" /></a>

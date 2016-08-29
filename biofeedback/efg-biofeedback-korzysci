@@ -8,6 +8,7 @@
 <meta name="description" content="Co daje EEG Biofeedback?
 EEG Biofeedback poprawia koncentrację, szybkość myślenia, pamięć, przyswajanie materiału przed egzaminami, a&nbsp;także organizację pracy, jej właściwe planowanie, uczy relaksacji, wewnętrznego wyciszenia, panowania nad emocjami. Leczy zaburzenia snu, migreny i&nbsp;inne schorzenia na&nbsp;podłożu psychicznym. Metoda ta wykazuje wysoką skuteczność we wspomaganiu leczenia osob z&nbsp;ADD, ADHD i&nbsp;dysleksją. czytaj więcej &raquo;" />
 <meta name="robots" content="index, follow" />
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700&subset=latin-ext" rel="stylesheet">
 <link href="http://www.biofb.pl/content/css/basic.css" rel="stylesheet" type="text/css" />
 <link href="http://www.biofb.pl/content/js/fancybox/jquery.fancybox-1.3.1.css" media="screen" rel="stylesheet" type="text/css" />
 <!--[if IE]><link href="/content/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
@@ -38,10 +39,7 @@ EEG Biofeedback poprawia koncentrację, szybkość myślenia, pamięć, przyswaj
 				
 		</ul>
 			</li>
- 
-	<li class="   menu3"><a href="../logopedia" title="Logopedia"><img src="../content/gfx/menu3.jpg" alt="Logopedia" /></a>
-			</li>
- 
+
 	<li class="   menu4"><a href="../cennik" title="Cennik"><img src="../content/gfx/menu4.jpg" alt="Cennik" /></a>
 			</li>
  
